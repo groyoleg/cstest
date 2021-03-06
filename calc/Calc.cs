@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace calc
+namespace cstest.testconsole
 {
     public static class Calc
     {
