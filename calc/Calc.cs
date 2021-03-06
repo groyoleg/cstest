@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace cstest.testconsole
+namespace cstest.calc
 {
     public static class Calc
     {
-        public static Sum(int a, int b){
-            x= a+b;
-            return x;
+        public static int Sum(int a, int b){
+            return a+b;
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\cstest\calc\bin\Debug\net5.0\calc.deps.json
+C:\cstest\calc\bin\Debug\net5.0\calc.dll
+C:\cstest\calc\bin\Debug\net5.0\ref\calc.dll
+C:\cstest\calc\bin\Debug\net5.0\calc.pdb
+C:\cstest\calc\obj\Debug\net5.0\calc.csprojAssemblyReference.cache
+C:\cstest\calc\obj\Debug\net5.0\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\cstest\calc\obj\Debug\net5.0\calc.AssemblyInfoInputs.cache
+C:\cstest\calc\obj\Debug\net5.0\calc.AssemblyInfo.cs
+C:\cstest\calc\obj\Debug\net5.0\calc.csproj.CoreCompileInputs.cache
+C:\cstest\calc\obj\Debug\net5.0\calc.dll
+C:\cstest\calc\obj\Debug\net5.0\ref\calc.dll
+C:\cstest\calc\obj\Debug\net5.0\calc.pdb

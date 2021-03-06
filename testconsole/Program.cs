@@ -1,5 +1,5 @@
-﻿using System.Net.Http.Headers;
 using System;
+using cstest.calc;
 
 namespace cstest.testconsole
 {
@@ -8,9 +8,9 @@ namespace cstest.testconsole
         static void Main(string[] args)
         {
             int x=3;
-            int y =x*x;
-            Console.WriteLine("y + x = {0}",calc);
-
+            int y=4*x;
+            Console.WriteLine("y + x = {0}", Calc.Sum(x,y));
         }
+
     }
 }

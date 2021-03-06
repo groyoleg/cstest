@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4I/Vk4sA/V1l7MBIB4McdSG71xNXBMUcnIftCv94Y/Z0lYw5v832CO4I9L/0AsSH1D6qzOBEkzp54/Xkb7cMw==",
+  "success": true,
+  "projectFilePath": "C:\\cstest\\calc\\calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\groyo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
